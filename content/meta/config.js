@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Kyle's Random Shenanigans", // <title>
   shortSiteTitle: "Kyle says Hello World!", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteUrl: "http://yoonsungahn.net",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
