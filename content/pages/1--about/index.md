@@ -13,6 +13,7 @@ You can find out more about me by looking at my Resume or by looking around the 
 * **Golang**
 * **Javascript** (React, GatsbyJS, Angular, NodeJS)
 * **Java**
+* Firebase / Firestore
 * Android Development Tool / Android Studio
 * Working with Windows / Linux OS
 * Network / Cloud Programming

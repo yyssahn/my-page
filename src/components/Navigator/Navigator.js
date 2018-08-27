@@ -113,7 +113,8 @@ class Navigator extends React.Component {
 
   render() {
     const { classes, posts, navigatorPosition, navigatorShape, categoryFilter } = this.props;
-
+    console.log(navigatorPosition)
+    console.log(this.props)
     return (
       <nav
         className={`${classes.navigator} ${navigatorPosition ? navigatorPosition : ""} ${

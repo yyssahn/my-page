@@ -14,12 +14,24 @@ Here are some programming skills and projects that I tackled before
 I use python in my work. In the work, I deal with full stack work, backend server, and some data manipulation with Panda library
 
 
-
 ### Go
 
-![Demo](./go.png) 
+![Go](./go.png) 
 
 Go is definitely fun/weird language. But I find it fun, and used it in my work and everytime I look, I find it fascinating. I use them mostly backend. Plus the logo is cute.
+
+### DevFest 2018 Vancouver
+
+![GDG](./bg.jpg) 
+
+DevFests are once a year big event that GDG is holding, celebrating tech and community with an awesome event. As a part of GDG Cloud Vancouver, I spent many hours, trying to create an awesome content for this event. 
+
+Used Languages/Techniques
+ * Firebase / Firestore
+ * NodeJS / Hoverboard
+ * Lots of Emails and hangout calls
+ * Lots of running around
+
 
 ### BC Payroll Calculator
 

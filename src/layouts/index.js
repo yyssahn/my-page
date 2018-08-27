@@ -76,10 +76,10 @@ class Layout extends React.Component {
   resizeHandler = () => {
     this.props.setIsWideScreen(isWideScreen());
   };
+  
 
   render() {
-    const { children, data } = this.props;
-
+    const { children, data } = this.props; 
     // TODO: dynamic management of tabindexes for keybord navigation
     return (
       <LayoutWrapper>
