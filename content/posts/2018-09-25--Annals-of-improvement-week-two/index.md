@@ -1,14 +1,14 @@
 ---
 title: Annals of improvement-Week One
-subTitle: Journey begins
+subTitle: Week 2
 category: "Annal"
 cover: bg.jpg
 ---
 
-It is hard to see whether or not I'm improving over the course of my life time.
+This week, the self improvement was not that significant. But there are some measures that I have taken to start the train.
 
-If the process is stagnant, one loses confidence and motivation. If the achievement is too small, improving may just become redundant and chore.
+I've played around how material design works, and the "philosophy" behind it. Honestly, I have felt that it was too mobiley at first, but I think I understand the benefits
 
-Thus I am creating an Annal for myself, to record every improvement that I made on a weekly basis. The topic can be anything, as long as it is overall + compared to before. If I cannot write one that week, that means my week was poor.
+I've started learning about machine learning, specifically TensorFlow. I'm scheduled to give high level talk about it very soon, so I need to be prepared soon.
 
-Hopefully, this will be a motivation for me to keep finding a way to improve myself. Over time, I wish that these annals lead me to somewhere better than before :)
+For my mental health, I have started mindfulness meditation. I do not have a good way to vent out my stress and frustration out (like exercise); hopefully this will help my mental health in the long run. But the plan is to start exercising soon so that the mental and physical health is maintained
